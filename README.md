@@ -7,7 +7,7 @@
 
 
 
-<br/>
+<br />
 <p align="justify">
 I am an enthusiastic person in Data Science field experience. Having educational background in Mathematics with satisfactory achievement and has participated in various workshops and training in the fields of Python Programming, RStudio and Machine Learning.
 Very interest on Data Cleaning, Data Visualization, Exploratory Data Analysis, Data Analyst and Data Science using latest technology/software.
