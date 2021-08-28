@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, I'm Setyo Dwi Pratama
 
-# Hi I'm Setyo Dwi Pratama
+<p align="justify">
+I am an enthusiastic person in Data Science field experience. Having educational background in Mathematics with satisfactory achievement and has participated in various workshops and training in the fields of Python Programming, RStudio and Machine Learning.
+Very interest on Data Cleaning, Data Visualization, Exploratory Data Analysis, Data Analyst and Data Science using latest technology/software.
+</p>
+
+<img align='right' src = "https://github.com/setyo-dwi-pratama">
 
 <!--
 **setyo-dwi-pratama/setyo-dwi-pratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
