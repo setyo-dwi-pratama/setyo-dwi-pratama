@@ -4,11 +4,7 @@
 
 <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=setyo-dwi-pratama&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
-##
-<p>
-I am an enthusiastic person in Data Science field experience. Having educational background in Mathematics with satisfactory achievement and has participated in various workshops and training in the fields of Python Programming, RStudio and Machine Learning.
-Very interest on Data Cleaning, Data Visualization, Exploratory Data Analysis, Data Analyst and Data Science using latest technology/software.
-</p>
+## I am an enthusiastic person in Data Science field experience. Having educational background in Mathematics with satisfactory achievement and has participated in various workshops and training in the fields of Python Programming, RStudio and Machine Learning. Very interest on Data Cleaning, Data Visualization, Exploratory Data Analysis, Data Analyst and Data Science using latest technology/software.
 
 ### Connect With me:
 
