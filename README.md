@@ -15,6 +15,8 @@ Very interest on Data Cleaning, Data Visualization, Exploratory Data Analysis, D
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=setyo-dwi-pratama&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
 
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=setyo-dwi-pratama&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+
 <!--
 **setyo-dwi-pratama/setyo-dwi-pratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
